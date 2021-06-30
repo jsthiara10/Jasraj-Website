@@ -7,7 +7,7 @@ I am interested in many areas of Cloud computing, such as Cloud Gaming, Cloud Ar
 
 ### Interests
 
-I am a fan of Liverpool Football Club. I enjoy doing calisthenics regularly, as well as reading self-development books.
+I am a fan of Liverpool Football Club. I enjoy keeping fit by doing calisthenics regularly. I also enjoy reading self-development books.
 
 ### Contact
 
