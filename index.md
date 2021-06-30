@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Jasraj's website
 
-You can use the [editor on GitHub](https://github.com/jsthiara10/testwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Jasraj's website was created on GitHub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
