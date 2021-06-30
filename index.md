@@ -1,37 +1,14 @@
-## Welcome to Jasraj's website
+## Jasraj's website
 
-Jasraj's website was created on GitHub.
+### About
 
+My name is Jasraj. I am from West London. I am a Trainee Cloud Computing Engineer. I am working towards my AWS Certified Cloud Practitioner Certification.
+I am interested in many areas of Cloud computing, such as Cloud Gaming, Cloud Architecture, Machine Learning and Artificial Intelligence.
 
+## Interests
 
-### Markdown
+I am a fan of Liverpool Football Club. I enjoy doing calisthenics regularly, as well as reading self-development books.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsthiara10/testwebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact information unavailable at this time.
